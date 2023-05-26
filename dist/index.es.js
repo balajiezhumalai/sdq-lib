@@ -1,1 +1,1 @@
-var o=function(){console.log("Hellow World")};export{o as HelloWorld};
+var o=function(){console.log("Hello World")};export{o as HelloWorld};
