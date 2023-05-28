@@ -1,1 +1,1 @@
-export declare const HelloWorld: () => void;
+export * from './components';
